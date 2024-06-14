@@ -1,4 +1,4 @@
-# DayZ Community Template  -- Test 
+# DayZ Community Template
 
 This is an easy to customize, forever-free template to bring an online presence to your (DayZ) gaming community. While initially intended to be used for DayZ communities, all DayZ specific elements can be easily disabled - making this template ideal for any gaming community.
 
